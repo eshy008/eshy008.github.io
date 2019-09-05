@@ -1,4 +1,3 @@
-
 const modalControls = (() => {
   //function to open modal
 const openModal = () => {
